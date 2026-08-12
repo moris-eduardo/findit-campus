@@ -1,0 +1,15 @@
+[
+  {"model": "items.campuszone", "pk": 1, "fields": {"name": "Biblioteca Ing. Luis Elizondo", "description": "", "is_active": true}},
+  {"model": "items.campuszone", "pk": 2, "fields": {"name": "Auditorio FIME", "description": "", "is_active": true}},
+  {"model": "items.campuszone", "pk": 3, "fields": {"name": "Canchas deportivas", "description": "Área de canchas de fútbol y básquetbol", "is_active": true}},
+  {"model": "items.campuszone", "pk": 4, "fields": {"name": "Edificio de Aulas A — Piso 1", "description": "", "is_active": true}},
+  {"model": "items.campuszone", "pk": 5, "fields": {"name": "Edificio de Aulas A — Piso 2", "description": "", "is_active": true}},
+  {"model": "items.campuszone", "pk": 6, "fields": {"name": "Edificio de Aulas A — Piso 3", "description": "", "is_active": true}},
+  {"model": "items.campuszone", "pk": 7, "fields": {"name": "Centro de Cómputo", "description": "", "is_active": true}},
+  {"model": "items.campuszone", "pk": 8, "fields": {"name": "Laboratorios y Talleres", "description": "", "is_active": true}},
+  {"model": "items.campuszone", "pk": 9, "fields": {"name": "Cafetería", "description": "", "is_active": true}},
+  {"model": "items.campuszone", "pk": 10, "fields": {"name": "Estacionamiento", "description": "", "is_active": true}},
+  {"model": "items.campuszone", "pk": 11, "fields": {"name": "Área exterior / Jardines", "description": "", "is_active": true}},
+  {"model": "items.campuszone", "pk": 12, "fields": {"name": "Prefectura", "description": "Oficina de prefectura FIME", "is_active": true}},
+  {"model": "items.campuszone", "pk": 13, "fields": {"name": "Otro", "description": "Zona no listada", "is_active": true}}
+]
